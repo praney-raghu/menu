@@ -1,0 +1,16 @@
+{
+    "name": "DynamicMenu",
+    "alias": "dynamicmenu",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\DynamicMenu\\Providers\\DynamicMenuServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
